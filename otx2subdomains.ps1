@@ -1,10 +1,10 @@
 Write-Host "otx2subdomains" -ForegroundColor Red
 Write-Host "Scan Alienvault OTX and enumerate known subdomains for a target domain" -ForegroundColor Red
 Write-Host " "
-Write-Host "Created by Gabriel H."
-Write-Host "https://github.com/ndr-repo | http://weekndr.me"
+Write-Host "Created by Gabriel H." -ForegroundColor Red
+Write-Host "https://github.com/ndr-repo | http://weekndr.me" -ForegroundColor Red
 Write-Host " "
-Write-Host "Continue?" -InformationAction Inquire
+Write-Host "Continue?" -InformationAction Inquire  -ForegroundColor Red
 $targetDomain = Read-Host "Enter the target domain"
 $pwd = Get-Location
 Write-Host " "
