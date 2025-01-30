@@ -21,3 +21,6 @@ If you would like to download the dependencies ad-hoc, you'll need to install ga
 3. Clone the otx2subdomains repository
 4. Run otx2subdomains. If you are having issues accessing the dependencies from your environment vars, verify they are set and reboot your machine.
 
+## Support
+- If you find use from this, consider supporting my work on [Ko-fi](https://ko-fi.com/weekndr_sec). 
+- As of this release, I'm currently consulting full-time and get paid by the project, not by my time.
