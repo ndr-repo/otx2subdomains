@@ -1,4 +1,4 @@
-# otx2subdomains - Passive subdomain discovery via Alienvault OTX
+# otx2subdomains - Passive subdomain discovery via LevelBlue OTX
 
 ## Disclaimer
 
